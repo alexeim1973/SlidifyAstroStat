@@ -56,11 +56,13 @@ image(ax1, ax2, X$imDat, xlab = xlab, ylab = ylab)
 
 http://bccp.berkeley.edu/beach_program/COTB14Feigelson1.pdf
 
-2. Modern Statistical Methods for Astronomy (with R Applications), Feigelson and Babu, CambridgePress, 2012
+## Literature
 
-3. Statistical Methods for Astronomical Data Analysis, Asis KumarChattopadhyay
+1. Modern Statistical Methods for Astronomy (with R Applications), Feigelson and Babu, CambridgePress, 2012
+
+2. Statistical Methods for Astronomical Data Analysis, Asis KumarChattopadhyay
 TanukaChattopadhyay, Springer Series in Astrostatistics, 2014
 
-4. An Introduction to Statistical Learning with Applications in R, Gareth James et al, Springer 2013
+3. An Introduction to Statistical Learning with Applications in R, Gareth James et al, Springer 2013
 
 
