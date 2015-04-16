@@ -64,5 +64,3 @@ TanukaChattopadhyay, Springer Series in Astrostatistics, 2014
 4. An Introduction to Statistical Learning with Applications in R, Gareth James et al, Springer 2013
 
 
---- .class #id 
-
